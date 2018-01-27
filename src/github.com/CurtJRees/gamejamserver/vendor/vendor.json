@@ -1,7 +1,7 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"heroku": [
+	"package": [
 		{
 			"checksumSHA1": "rylbYOEA1HI2BfUOOz0QRmCf5ks=",
 			"path": "github.com/julienschmidt/httprouter",
